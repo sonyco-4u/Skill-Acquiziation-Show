@@ -171,8 +171,8 @@ section {
   z-index: 0;
 }
 
-.event-date {
-  color:var(--text-color)
+.event-date { 
+  color:var(--text-color);
 }
 
 #section1 .shape-set {
