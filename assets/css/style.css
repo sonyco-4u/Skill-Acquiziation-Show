@@ -309,6 +309,10 @@ section {
   text-align: start;
 }
 
+.items :hover{
+  border: solid white;
+}
+
 #program .item-icon {
   height: 3rem;
   flex-grow: 0;
