@@ -69,7 +69,7 @@ speakers.forEach((speaker, index) => {
   speakersPlaceHolder.innerHTML += `
   <div class="person ${index > 1 ? 'mobile-hide' : ''}">
     <div class="person-graphic">
-      <img src="../assets/img/${speaker.image}" alt="featured-speakers" />
+      <img src="./assets/img/${speaker.image}" alt="" />
     </div>
     <div class="person-info">
       <h4 class="person-name">${speaker.name}</h4>
