@@ -1,8 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-NIGERIA FASHION SKILL ACQUISITION SHOW.
+# NIGERIA FASHION SKILL ACQUISITION SHOW.
 
 > This is my Capstone project for the first module in microverse, it is a static website for a Nigeria fashion skill acquisition show
 
@@ -42,6 +40,7 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 g
+
 ## Acknowledgments
 
 - The original design is made by Cindy Shin called CC Global Summit 2015
