@@ -43,7 +43,7 @@ g
 
 ## Acknowledgments
 
-- The original design is made by Cindy Shin called CC Global Summit 2015
+- The original design is made by Cindy Shin called CC Global Summit 2016
 
 [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) whose design template was used is used for this project.
 
